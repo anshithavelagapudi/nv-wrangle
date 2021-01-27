@@ -7,3 +7,4 @@
   - Command: grep -w "LAUNCE" -c Text.txt
   * Speaker -2 : 19
   - Command: grep -w "PANTHINO" -c Text.txt
+* LAUNCE spoke 55 times more than PANTHINO
