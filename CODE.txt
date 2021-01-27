@@ -1,0 +1,5 @@
+wc -l Text.txt
+tr ' ' '\12' < Text.txt | sort | uniq -c
+grep -w "LAUNCE" -c Text.txt
+grep -w "PANTHINO" -c Text.txt
+
