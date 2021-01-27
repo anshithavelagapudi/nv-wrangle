@@ -1,5 +1,9 @@
 wc -l Text.txt
 tr ' ' '\12' < Text.txt | sort | uniq -c
+
+No. of TIMES
 grep -w "LAUNCE" -c Text.txt
 grep -w "PANTHINO" -c Text.txt
 
+comparision
+how many times
